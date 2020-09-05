@@ -1,0 +1,54 @@
+body{
+    align-items: center;
+    width: 1200px;
+    margin: auto;
+}
+
+
+h1{
+    color: darkcyan;
+}
+
+h3{
+    color: rgb(8, 68, 68)
+}
+
+strong{
+    color: blue;    
+}
+
+
+.promocao{
+    padding: 2px 8px;
+    color: indigo;
+    background:dodgerblue;
+    border: dodgerblue solid;
+}
+.grade{
+    
+    padding: 10px 10px 10px 10px;
+    color: white;
+    background: deepskyblue;
+}
+.caixa{
+    padding: 5px;
+    margin: 10px 0px 0px 0px;
+    border: dimgray solid 2px;
+    
+}
+.lista{
+    display: inline-block;
+    padding: 0px;
+    margin: 10px;
+    width: 568px;
+}
+
+#titulo{
+    text-align: center;
+}
+#negativo{
+    color: azure;
+}
+#tituloDeGrade{
+    margin: 0px;
+}
