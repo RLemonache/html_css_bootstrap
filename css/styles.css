@@ -18,7 +18,6 @@ strong{
     color: blue;    
 }
 
-
 .titulo{
     color: darkcyan;
 }
@@ -59,4 +58,8 @@ strong{
 }
 #tituloDeGrade{
     margin: 0px;
+}
+
+#menortituloprincipal{
+    font-size: 38pt;
 }
